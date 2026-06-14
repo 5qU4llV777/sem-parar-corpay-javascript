@@ -23,5 +23,8 @@
   "homepage": "https://github.com/5qU4llV777/sem-parar-corpay-javascript#readme",
   "dependencies": {
     "chalk": "^5.6.2"
+  },
+  "devDependencies": {
+    "log-symbols": "^7.0.1"
   }
 }

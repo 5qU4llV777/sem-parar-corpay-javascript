@@ -18,5 +18,14 @@ npm install +  nome do pacote //para instalar pacotes usando npm
 
 npm install //instala todas as dependençias  do projeto
 
+npm i log-symbols -D //para instalar somente em ambiente DEV
+
+npm uninstall + nome do pacote //para desinstalar 
+
+npm fund //lista todas as dependençias que estão instaladas
+
+npm update + nome pacote //para atualizar pacote para ultima versão 
+
+
 [comandos](https://github.com/5qU4llV777/sem-parar-corpay-javascript/blob/main/docs/arquivo_comandos.PNG)
 
