@@ -1,0 +1,35 @@
+{
+  "name": "sem-parar-corpay-javascript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "dependencies": {
+    "chalk": "^5.6.2",
+    "is-unicode-supported": "^2.1.0",
+    "log-symbols": "^7.0.1",
+    "yoctocolors": "^2.1.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "prebuild": "npm install",
+    "start:dev": "node src/index.js",
+    "start:watch": "node --watch src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "iniciar": "node src/index.js && mkdir dist && echo \"Diretório dist criado.\\\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/5qU4llV777/sem-parar-corpay-javascript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/5qU4llV777/sem-parar-corpay-javascript/issues"
+  },
+  "homepage": "https://github.com/5qU4llV777/sem-parar-corpay-javascript#readme"
+}
