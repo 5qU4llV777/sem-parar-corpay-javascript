@@ -29,3 +29,4 @@ npm update + nome pacote //para atualizar pacote para ultima versão
 
 [comandos](https://github.com/5qU4llV777/sem-parar-corpay-javascript/blob/main/docs/arquivo_comandos.PNG)
 
+[typescript](https://www.typescriptlang.org/)
