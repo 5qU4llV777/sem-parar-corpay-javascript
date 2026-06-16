@@ -1,0 +1,44 @@
+{
+  "name": "sem-parar-corpay-javascript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./lib/index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "dependencies": {
+    "chalk": "^5.6.2",
+    "esbuild": "^0.28.1",
+    "is-unicode-supported": "^2.1.0",
+    "log-symbols": "^7.0.1",
+    "tsx": "^4.22.4",
+    "yoctocolors": "^2.1.2"
+  },
+  "devDependencies": {
+    "tslint": "^5.20.1",
+    "typescript": "^6.0.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc",
+    "lint": "tslint -c tslint.json src/**/*.ts",
+    "prepublish": "npm run build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/5qU4llV777/sem-parar-corpay-javascript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/5qU4llV777/sem-parar-corpay-javascript/issues"
+  },
+  "homepage": "https://github.com/5qU4llV777/sem-parar-corpay-javascript#readme",
+  "files": [
+    "./bin/*",
+    "./lib/*"
+  ],
+  "typings": "./lib/index.d.ts"
+}

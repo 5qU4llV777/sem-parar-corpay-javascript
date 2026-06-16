@@ -30,3 +30,13 @@ npm update + nome pacote //para atualizar pacote para ultima versão
 [comandos](https://github.com/5qU4llV777/sem-parar-corpay-javascript/blob/main/docs/arquivo_comandos.PNG)
 
 [typescript](https://www.typescriptlang.org/)
+
+npm install -D typescript//para instalar typescript
+
+npx tsc src/index.ts // transpila e roda em typescript
+
+npx tsc --init //para criar tsconfig 
+
+npm i tsx -D //para executar typescript diretamente 
+
+npm init -y typescript -D// cria projeto typescript direto 
