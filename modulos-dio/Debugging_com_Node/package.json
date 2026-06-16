@@ -1,0 +1,75 @@
+{
+  "name": "sem-parar-corpay-javascript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "dependencies": {
+    "ansi-styles": "^3.2.1",
+    "argparse": "^1.0.10",
+    "balanced-match": "^1.0.2",
+    "brace-expansion": "^1.1.15",
+    "builtin-modules": "^1.1.1",
+    "chalk": "^5.6.2",
+    "color-convert": "^1.9.3",
+    "color-name": "^1.1.3",
+    "commander": "^2.20.3",
+    "concat-map": "^0.0.1",
+    "diff": "^4.0.4",
+    "es-errors": "^1.3.0",
+    "esbuild": "^0.28.1",
+    "escape-string-regexp": "^1.0.5",
+    "esprima": "^4.0.1",
+    "fs.realpath": "^1.0.0",
+    "function-bind": "^1.1.2",
+    "glob": "^7.2.3",
+    "has-flag": "^3.0.0",
+    "hasown": "^2.0.4",
+    "inflight": "^1.0.6",
+    "inherits": "^2.0.4",
+    "is-core-module": "^2.16.2",
+    "is-unicode-supported": "^2.1.0",
+    "js-tokens": "^4.0.0",
+    "js-yaml": "^3.14.2",
+    "log-symbols": "^7.0.1",
+    "minimatch": "^3.1.5",
+    "minimist": "^1.2.8",
+    "mkdirp": "^0.5.6",
+    "once": "^1.4.0",
+    "path-is-absolute": "^1.0.1",
+    "path-parse": "^1.0.7",
+    "picocolors": "^1.1.1",
+    "resolve": "^1.22.12",
+    "semver": "^5.7.2",
+    "sprintf-js": "^1.0.3",
+    "supports-color": "^5.5.0",
+    "supports-preserve-symlinks-flag": "^1.0.0",
+    "tslib": "^1.14.1",
+    "tslint": "^5.20.1",
+    "tsutils": "^2.29.0",
+    "wrappy": "^1.0.2",
+    "yoctocolors": "^2.1.2"
+  },
+  "devDependencies": {
+    "tsup": "^8.5.1",
+    "tsx": "^4.22.4",
+    "typescript": "^6.0.3"
+  },
+  "scripts": {
+    "start:dev": "tsx src/index.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/5qU4llV777/sem-parar-corpay-javascript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/5qU4llV777/sem-parar-corpay-javascript/issues"
+  },
+  "homepage": "https://github.com/5qU4llV777/sem-parar-corpay-javascript#readme"
+}

@@ -40,3 +40,5 @@ npx tsc --init //para criar tsconfig
 npm i tsx -D //para executar typescript diretamente 
 
 npm init -y typescript -D// cria projeto typescript direto 
+
+npm i typescript tsx tsup -D//para instalar e transpilar mais facilmente modo DEV
